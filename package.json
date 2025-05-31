@@ -1,0 +1,14 @@
+{
+  "name": "IMS-BE",
+  "version": "1.0.0",
+  "main": "app.js",
+  "description": "\"This is the backend of IMS.\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Aastha Shah\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
