@@ -9,6 +9,8 @@
   "author": "\"Aastha Shah\"",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
   }
 }
